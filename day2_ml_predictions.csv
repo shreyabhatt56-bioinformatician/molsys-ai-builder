@@ -1,0 +1,13 @@
+EGFR_FoldChange,KRAS_FoldChange,TP53_FoldChange,Actual_Status,Predicted_Status
+12.24,6.8,7.08,Low Risk,Low Risk
+9.68,11.39,9.88,Low Risk,Low Risk
+11.23,8.74,9.23,High Risk,Low Risk
+7.98,9.01,6.33,Low Risk,Low Risk
+3.8,11.91,6.45,Low Risk,Low Risk
+14.11,7.52,6.05,Low Risk,Low Risk
+6.8,7.18,5.96,Low Risk,Low Risk
+11.7,8.64,5.01,High Risk,High Risk
+11.35,7.91,3.38,Low Risk,Low Risk
+9.42,5.08,8.41,Low Risk,Low Risk
+8.89,12.72,7.14,Low Risk,Low Risk
+11.63,3.2,3.72,Low Risk,Low Risk
